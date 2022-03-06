@@ -1,0 +1,45 @@
+
+.navbar-home {
+    background-color: #a94442;
+    border-color: none;
+    border-radius: 0px;
+    border: none;
+    margin-bottom: 0px;
+
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.carousel-content {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    
+}
+.bagwell{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+.teebag{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.footer{
+    
+    background: #a94442;
+}
+
+.footer {
+   
+    color: #fff;
+   
+}
+
+
+
+
+
